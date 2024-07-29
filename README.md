@@ -30,7 +30,7 @@ I orchestrate symphonies of code and infrastructure, harmonizing the rhythms of 
 
 - **LinkedIn**: https://www.linkedin.com/in/jagdishkumar/
 - **GitHub**: jagdishkumar14
-- **Email**: 'devops@jagdishkumar@gmail.com'
+- **Email**: "devops@jagdishkumar@gmail.com"
 
 Let's elevate the tech world to new heights, one deployment at a time. Reach out if you're interested in collaboration or just want to talk tech!
 
