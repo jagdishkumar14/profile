@@ -24,6 +24,7 @@ I'm a seasoned **DevOps Engineer** with a passion for streamlining development p
 
 - BSC-IT
 - Certified Kubernetes Administrator (CKA)
+- Terraform Associate (003) from HashiCorp!
 - AWS Certified Solutions Architect
 - Azure Certified Solutions Architect
 
